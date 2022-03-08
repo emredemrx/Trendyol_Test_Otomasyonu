@@ -1,0 +1,14 @@
+C:\Users\emred\source\repos\TestOtomasyon\TestOtomasyon\bin\Debug\TestOtomasyon.exe.config
+C:\Users\emred\source\repos\TestOtomasyon\TestOtomasyon\bin\Debug\TestOtomasyon.exe
+C:\Users\emred\source\repos\TestOtomasyon\TestOtomasyon\bin\Debug\TestOtomasyon.pdb
+C:\Users\emred\source\repos\TestOtomasyon\TestOtomasyon\bin\Debug\EntityFramework.dll
+C:\Users\emred\source\repos\TestOtomasyon\TestOtomasyon\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\emred\source\repos\TestOtomasyon\TestOtomasyon\bin\Debug\WebDriver.dll
+C:\Users\emred\source\repos\TestOtomasyon\TestOtomasyon\bin\Debug\WebDriver.Support.dll
+C:\Users\emred\source\repos\TestOtomasyon\TestOtomasyon\bin\Debug\EntityFramework.xml
+C:\Users\emred\source\repos\TestOtomasyon\TestOtomasyon\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\emred\source\repos\TestOtomasyon\TestOtomasyon\obj\Debug\TestOtomasyon.csproj.AssemblyReference.cache
+C:\Users\emred\source\repos\TestOtomasyon\TestOtomasyon\obj\Debug\TestOtomasyon.csproj.CoreCompileInputs.cache
+C:\Users\emred\source\repos\TestOtomasyon\TestOtomasyon\obj\Debug\TestOtomasyon.csproj.CopyComplete
+C:\Users\emred\source\repos\TestOtomasyon\TestOtomasyon\obj\Debug\TestOtomasyon.exe
+C:\Users\emred\source\repos\TestOtomasyon\TestOtomasyon\obj\Debug\TestOtomasyon.pdb
